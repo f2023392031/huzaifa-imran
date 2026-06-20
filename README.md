@@ -10,9 +10,6 @@ A modern, responsive, and dynamic portfolio website developed using **Django**, 
 
 **Business Analyst & Web Developer**
 
-📍 Lahore, Pakistan
-📧 [F2023392031@umt.edu.pk](mailto:F2023392031@umt.edu.pk)
-
 I am a Business Analyst and aspiring Web Developer with a passion for analyzing business processes and leveraging technology to solve complex challenges. My expertise includes identifying opportunities for improvement, gathering business requirements, and utilizing data-driven insights to support strategic decision-making.
 
 In addition to my business background, I possess technical skills in HTML, CSS, JavaScript, and Django, enabling me to develop responsive and user-friendly web applications. I am committed to continuous learning and aim to bridge the gap between business needs and innovative technological solutions.
@@ -162,3 +159,6 @@ This project is developed for educational, professional, and portfolio purposes.
 ---
 
 ### "Transforming business challenges into data-driven solutions through analysis and technology."
+
+📍 Lahore, Pakistan
+📧 [F2023392031@umt.edu.pk]
