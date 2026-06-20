@@ -9,7 +9,9 @@ A modern, responsive, and dynamic portfolio website developed using **Django**, 
 ### Huzaifa Imran
 ## Profile Picture
 
-<img src="static/images/HUZAIFA.JPEG" width="200" alt="Huzaifa Imran">
+<p align="center">
+  <img src="assets/images/huzaifa.jpeg" alt="Huzaifa Imran" width="250">
+</p>
 
 **Business Analyst & Web Developer**
 
